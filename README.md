@@ -10,7 +10,7 @@ Listado de recursos para promover el aprendizaje continuo entre el equipo y que 
 
 ## Cursos introductorios
 
-- [Curso de introducción básica][1] - Platzi 💯 - Curso introductorio, recomendado
+- [Curso de programación básica][1] - Platzi 💯 - Curso introductorio, recomendado
 - [Especialidad de desarrollo web desde cero][2] - EDteam 💯 - Aprende los fundamentos de los 3 pilares del desarrollo web desde cero con estos tres cursos de la especialidad.
 - [CS50's Introduction to Computer Science][3] - edX 🇺🇸 - Curso esencial para aprender los fundamentos de la ciencia de la computación impartido por Harvard.
 
