@@ -34,6 +34,6 @@ Listado de recursos para promover el aprendizaje continuo entre el equipo y que 
 [4]: https://learn.freecodecamp.org/
 [5]: https://scrimba.com/
 
-### **ALways lean something new**
+### **Always lean something new**
 
 Sí quieres colaborar con este repositorio haz for y envia tu pull request.
